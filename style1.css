@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+    font-size: 28;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: orange;
+}
+
+p {
+    color: yellow;
+}
+
+#ilk {
+    color: pink;
+}
+
+#iki {
+    color: red;
+}
+
+#rr {
+    color: green;
+}
+
+a{
+    color: yellowgreen;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+a:visited {
+    color: rgb(255, 127, 127);
+}
+
+#kutu {
+    width: 200px;
+    height: 400px;
+    border: firebrick solid 6px;
+    background-attachment: fixed;
+    background-color: tomato;
+}

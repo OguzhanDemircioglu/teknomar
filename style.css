@@ -1,3 +1,11 @@
 h1 {
-    background-color: aqua;
+    background-color: green;
+    color: black;
+    font-size: 28px;
+    font: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+
 }
